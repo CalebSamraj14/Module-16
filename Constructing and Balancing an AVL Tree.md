@@ -62,13 +62,4 @@ L=[12,8,18,5,11,17,4,7,2]
 
 ---
 
-## PYTHON PROGRAM
-```
-ENTER YOUR CODE
-```
 
-## OUTPUT
-```
-```
-
-## RESULT
